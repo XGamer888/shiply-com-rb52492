@@ -1,0 +1,47 @@
+{
+  "RL481528024422": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen, Stephanstraße 53, 94034 Passau, Deutschland",
+    "receiver": "Jordan Ott, Am Rabenhold 1A, 99310 Arnstadt, Deutschland",
+    "price": "3.290,00 €",
+    "description": "Hersteller: Yamaha<br>Typ: YZF-R125<br>Fahrgestelnummer: VGSRE488000000223<br>Erstzulassung: 07.2023<br>KM laut Vorbesitzer: 8563 km<br>Leistung: 11 kW (15 PS)<br>Hubraum: 125 cm³<br>Farbe: Schwarz<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Jordan Ott<br>Am Rabenhold 1A<br>99310 Arnstadt<br>Deutschland<br>Telefon: +49 152 59128785",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "22.09.2026",
+    "deliveryDate": "25.09.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
