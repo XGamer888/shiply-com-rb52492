@@ -28,10 +28,10 @@
     "orderDate": "22.09.2026",
     "deliveryDate": "25.09.2026",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Passauer Str. 10",
+      "postal_code": "93055",
+      "city": "Regensburg",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
