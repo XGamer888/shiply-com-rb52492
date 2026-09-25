@@ -1,6 +1,6 @@
 {
   "RL481528024422": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Stephanstraße 53, 94034 Passau, Deutschland",
     "receiver": "Jordan Ott, Am Rabenhold 1A, 99310 Arnstadt, Deutschland",
@@ -26,11 +26,11 @@
       }
     ],
     "orderDate": "22.09.2026",
-    "deliveryDate": "25.09.2026",
+    "deliveryDate": "28.09.2026 - 🕔 17:10 Uhr",
     "pickup": {
-      "street": "Passauer Str. 10",
-      "postal_code": "93055",
-      "city": "Regensburg",
+      "street": "Rotterdamer Str. 32",
+      "postal_code": "90451",
+      "city": "Nürnberg",
       "country": "Deutschland",
       "lat": "",
       "lng": ""
